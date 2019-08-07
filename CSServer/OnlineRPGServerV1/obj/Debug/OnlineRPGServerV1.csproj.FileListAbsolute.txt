@@ -1,0 +1,10 @@
+C:\Users\ceran\source\repos\OnlineRPGServerV1\bin\Debug\OnlineRPGServerV1.exe.config
+C:\Users\ceran\source\repos\OnlineRPGServerV1\bin\Debug\OnlineRPGServerV1.exe
+C:\Users\ceran\source\repos\OnlineRPGServerV1\bin\Debug\OnlineRPGServerV1.pdb
+C:\Users\ceran\source\repos\OnlineRPGServerV1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ceran\source\repos\OnlineRPGServerV1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ceran\source\repos\OnlineRPGServerV1\obj\Debug\OnlineRPGServerV1.csprojAssemblyReference.cache
+C:\Users\ceran\source\repos\OnlineRPGServerV1\obj\Debug\OnlineRPGServerV1.csproj.CoreCompileInputs.cache
+C:\Users\ceran\source\repos\OnlineRPGServerV1\obj\Debug\OnlineRPGServerV1.csproj.CopyComplete
+C:\Users\ceran\source\repos\OnlineRPGServerV1\obj\Debug\OnlineRPGServerV1.exe
+C:\Users\ceran\source\repos\OnlineRPGServerV1\obj\Debug\OnlineRPGServerV1.pdb
