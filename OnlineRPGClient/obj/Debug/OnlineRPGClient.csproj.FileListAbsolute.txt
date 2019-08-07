@@ -1,0 +1,15 @@
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.csprojAssemblyReference.cache
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.GameForm.resources
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.GameSelect.resources
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.Login.resources
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.Properties.Resources.resources
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.csproj.GenerateResource.cache
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.csproj.CoreCompileInputs.cache
+C:\Users\ceran\source\repos\OnlineRPGClient\bin\Debug\OnlineRPGClient.exe.config
+C:\Users\ceran\source\repos\OnlineRPGClient\bin\Debug\OnlineRPGClient.exe
+C:\Users\ceran\source\repos\OnlineRPGClient\bin\Debug\OnlineRPGClient.pdb
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.exe
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.pdb
+C:\Users\ceran\source\repos\OnlineRPGClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ceran\source\repos\OnlineRPGClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ceran\source\repos\OnlineRPGClient\obj\Debug\OnlineRPGClient.csproj.CopyComplete
